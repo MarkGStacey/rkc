@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="latest-journals-heading container">
+        <!-- <div class="latest-journals-heading container">
         <span class="label">Latest and greatest</span>
         </div>
         <div class="latest-journals">
@@ -9,7 +9,7 @@
               <h3 class="journal-title">{{ item.node.title }}</h3>
             </g-link>
         </div>
-        </div>
+        </div> -->
     </div>
 </template>
 

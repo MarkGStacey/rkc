@@ -1,6 +1,6 @@
 ---
 thumbnail: '/uploads/markus-spiske-516263-unsplash.jpg'
-title: Fitness ao
+title: Fitness app
 date: 2019-01-03
 categories:
 - digital-innovation

@@ -32,8 +32,8 @@ fields:
       file: data/authors/nichlas-w-andersen.json
     required: true
     options:
-    - Nichlas W. Andersen
+    - Mark G. Stacey
   label: Author
-  default: Nichlas W. Andersen
+  default: Mark G. Stacey
 pages:
 - journal/macos-development-environment.md

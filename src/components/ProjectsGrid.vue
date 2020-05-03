@@ -2,7 +2,7 @@
     <div class="projects">
         <div class="project" v-for="item in projects" :key="item.node.id">
             <g-link :to="item.node.path" class="project-link">
-            <g-image
+            <g-image v-if="typeof item.node.thumbnail !== 'undefined' && item.node.thumbnail !== '' && item.node.thumbnail !== null"
                 :src="item.node.thumbnail"
                 :alt="item.node.title"
                 class="thumbnail"

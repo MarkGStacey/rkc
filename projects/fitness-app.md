@@ -1,11 +1,11 @@
 ---
-thumbnail: '/uploads/markus-spiske-516263-unsplash.jpg'
+thumbnail: '/uploads/physio-virtual-feature.jpg'
 title: Fitness app
-date: 2019-01-03
+date: 2020-05-02
 categories:
 - digital-innovation
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/markus-spiske-516263-unsplash.jpg)
+![](/uploads/physio-virtual-feature.jpg)

@@ -10,12 +10,12 @@ project_fg_color: ''
 [MyPhysio Rehab](https://www.myphysiorehab.com/)
 <https://www.myphysiorehab.com>
 
-+-----------------------------------+-------+-----+--------+
-|Competitor|Website|Niche|Comments|
-+-----------------------------------+-------+-----+--------+
-|[MyPhysio Rehab(https://www.myphysiorehab.com/)]||
++-----------------------------------+-----------------+----------+
+|Competitor                         |     Niche       | Comments | 
++-----------------------------------+-----------------+----------+
+|[MyPhysio Rehab]                   |Physio           |
 +----------+-------+-----+--------+
-|Rehab Guru      |      1|    2|2       |
+|Rehab Guru|Physio|| 
 +----------+-------+-----+--------+
 |Rehab My Patient      |      1|    2|2       |
 +----------+-------+-----+--------+

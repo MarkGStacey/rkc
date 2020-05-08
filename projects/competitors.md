@@ -1,5 +1,5 @@
 ---
-title: Competi
+title: Competition
 date: 2020-05-02
 categories:
 - digital-innovation
@@ -7,17 +7,28 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+[MyPhysio Rehab](https://www.myphysiorehab.com/)
+<https://www.myphysiorehab.com>
+
++-----------------------------------+-------+-----+--------+
 |Competitor|Website|Niche|Comments|
-|:--|:--|:--||:--|
-|MyPhysio Rehab|
-|Rehab Guru|
-|Rehab My Patient|
-|Physiotec|
-|SimpleSet Pro|
++-----------------------------------+-------+-----+--------+
+|[MyPhysio Rehab(https://www.myphysiorehab.com/)]||
++----------+-------+-----+--------+
+|Rehab Guru      |      1|    2|2       |
++----------+-------+-----+--------+
+|Rehab My Patient      |      1|    2|2       |
++----------+-------+-----+--------+
+|Physiotec      |      1|    2|2       |
++----------+-------+-----+--------+
+|SimpleSet Pro      |      1|    2|2       |
++----------+-------+-----+--------+
 |truecoach|
-|MyFitnessPal|
-|Various celebrity endorsed|
-|PDF Programs|
++----------+-------+-----+--------+
+|Coaches ete https://www.coachseye.com/
++----------+-------+-----+--------+
+
+Test
 
 +-------+----------+------+
 | Table Headings   | Here |
@@ -34,3 +45,19 @@ project_fg_color: ''
 | cells |                 |
 | too   |                 |
 +-------+-----------------+
+
+
+|--|--|--|--|
+
+
+|:--|:--|:--|:--|
+|MyPhysio Rehab|
+|Rehab Guru|
+|Rehab My Patient|
+|Physiotec|
+|SimpleSet Pro|
+|truecoach|
+|MyFitnessPal|
+|Various celebrity endorsed|
+|PDF Programs|
+

@@ -26,8 +26,21 @@ export default {
     }
 }
 </script>
+<style>
+table {
+  border-style: solid;
+  width: 100%
+}
+td {
+  border-style: solid;
+  border-width: 1px;
 
+}
+</style>
 <style scoped>
+table {
+  border-style: solid
+}
 .projects {
   display: grid;
   grid-template-columns: 1fr 1fr;

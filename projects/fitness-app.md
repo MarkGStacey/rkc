@@ -25,8 +25,34 @@ This trend is immediately apparent by looking at Google trends for selected term
 [Home fitness](https://trends.google.com/trends/explore?date=2015-04-04%202020-04-04&q=home%20fitness)
 ![](/uploads/g_home_fitness.png)
 
+Note the new years spike in interest in Home Fitness!
+
 [Dumbells](https://trends.google.com/trends/explore?date=2015-04-04%202020-04-04&q=dumbells)
 ![](/uploads/g_dumbells.png)
+
+[Exercise band](https://trends.google.com/trends/explore?date=2015-04-04%202020-04-04&q=exercise%20band)
+![](/uploads/g_exercise_band.png)
+
+These examples all show that interest in training at home just spiked recently - but other data also show that is the acceleration of a pre-existing trend, rather than a blip to go away on discovery of a vaccine.
+
+[Online coaching](https://trends.google.com/trends/explore?date=2015-04-04%202020-04-04&q=exercise%20band)
+![](/uploads/g_online_coaching.png)
+
+[Workout with me](https://trends.google.com/trends/explore?date=2015-04-04%202020-04-04&q=Workout%20with%20me)
+![](/uploads/g_workoutwithme.png)
+
+YouTube's interactive [With me](https://youtube.com/trends/articles/with-me-interactive/) infographic highlights a broader movement of online, not just fitness, learning. 
+
+An example of the excellent charts linked in that article:
+![](/uploads/all-withme.jpg)
+
+Staying with YouTube
+
+
+
+Another analysis by YouTube, looking at the searches for "[Workout at home](https://youtube.com/trends/articles/stay-home-workout-at-home/)":
+"*Global average daily views of videos with 'workout at home' in the title have increased by over 200% since March 15 compared to their average views for the rest of the year.
+Six of the year's top 20 biggest live streams, based on peak concurrent viewership, have been PE With Joe live streams*"
 
 
 ## Ease of use and user experience - focusing on the practitioners as well as the end user

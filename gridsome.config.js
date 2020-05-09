@@ -8,7 +8,7 @@ module.exports = {
   titleTemplate: "%s",
   siteDescription: "Master's",
   plugins: [
-    {
+ {
       use: "@gridsome/source-filesystem",
       options: {
         path: "projects/**/*.md",
@@ -31,7 +31,15 @@ module.exports = {
           externalLinksRel: ["nofollow", "noopener", "noreferrer"]
         }
       }
-    }
+    }/*,
+    {
+      use: '@gridsome/vue-remark',
+      options: {
+        typeName: 'ProjectPost', // Required
+        baseDir: './src/projects/', // Where .md files are located
+      }
+    }*/
+    
   ],
   transformers: {
     remark: {

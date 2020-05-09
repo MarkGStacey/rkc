@@ -3,32 +3,105 @@
     <div class="container">
 
       <div class="competitor-header">
-        <h1 class="competitor-title">Say hi!</h1>
-        <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
+        <p>
+          Analysis of competitor products.
+          Sports watch products and traditional cardio workout products have been excluded as not being a competitor as such
+        </p>
       </div>
-
-      <form class="competitor-form" name="competitor">
-
-        <div class="sender-info">
-          <div>
-            <label for="name" class="label">Your name</label>
-            <input type="text" name="name" />
-          </div>
-          <div>
-            <label for="email" class="label">Your email</label>
-            <input type="email" name="email" />
-          </div>
-        </div>
-
-        <div class="message">
-          <label for="message" class="label">Message</label>
-          <textarea name="message"></textarea>
-        </div>
-
-        <button class="button">Submit form</button>
-
-      </form>
-
+      <table style="width:100%">
+        <thead>
+          <tr>
+            <td>
+              Competitor
+            </td>
+            <td>
+              Link
+            </td>
+            <td>
+              Key USP
+            </td>
+            <td>
+              Audience
+            </td>
+            <td>
+              Comments
+            </td>
+        </tr>
+        </thead>
+        <tbody>
+          
+          <tr>
+            <td>MyPhysio Rehab</td>
+            <td><a href="https://www.myphysiorehab.com/">Link</a></td>
+            <td>Large existing library of rehab exercises</td>
+            <td>Physio clients</td>
+            <td>Comments</td>
+        </tr>
+          <tr>
+            <td>Rehab guru</td>
+            <td><a href="https://www.rehabguru.com/">Link</a></td>
+            <td>Telehealth - video calls</td>
+            <td>Physio clients</td>
+            <td>Rehab guru is the strongest competitor - a decent exercise library, and the telehealth feature make it a strong contender</td>
+        </tr>
+          <tr>
+            <td>Rehab My Patient</td>
+            <td><a href="https://www.rehabmypatient.com/">Link</a></td>
+            <td></td>
+            <td>Physio clients</td>
+            <td>A not quite as good version of rehab guru</td>
+        </tr>
+          <tr>
+            <td>Physiotec</td>
+            <td><a href="https://physiotec.ca/ca/en/">Link</a></td>
+            <td>Similar to rehab guru/rehab my patient - but integrates directly with practice management software</td>
+            <td>Physio clients</td>
+            <td>Comments</td>
+        </tr>
+          <tr>
+            <td>SimpleSet Pro</td>
+            <td><a href="https://www.simpleset.net/">Link</a></td>
+            <td>Physio clients</td>
+            <td>More clinically oriented than the apps mentioned above</td>
+            <td>Comments</td>
+        </tr>
+          <tr>
+            <td>True Coach</td>
+            <td><a href="https://truecoach.co/">Link</a></td>
+            <td>Collaboration between coaches and clients</td>
+            <td>Personal trainers</td>
+            <td>Comments</td>
+        </tr>
+        <tr>
+            <td>My Pt HUB</td>
+            <td><a href="https://www.mypthub.net/">Link</a></td>
+            <td>Video library</td>
+            <dtd>Audience</dtd>
+            <td>Comments</td>
+        </tr>
+          <tr>
+            <td>Coaches eye</td>
+            <td><a href="https://www.coachseye.com/">Link</a></td>
+            <td>Video analysis</td>
+            <td>Audience</td>
+            <td>Comments</td>
+        </tr>
+          <tr>
+            <td>Polar beat</td>
+            <td><a href="https://www.coachseye.com/">Link</a></td>
+            <td>Ties in with Polar eco system</td>
+            <td>Audience</td>
+            <td>Comments</td>
+        </tr>
+          <tr>
+            <td>Mindful break</td>
+            <td><a href="https://chrome.google.com/webstore/detail/mindful-break/onjcfgnjjbnflacfbnjaapcbiecckilk?hl=en-GB">Link</a></td>
+            <td>Integrated to chrome</td>
+            <td>Audience</td>
+            <td>Comments</td>
+        </tr>
+        </tbody>
+      </table>
     </div>
   </Layout>
 </template>

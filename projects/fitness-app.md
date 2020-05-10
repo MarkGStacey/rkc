@@ -73,7 +73,7 @@ And so Coach@Home takes a different approach.
 Creating an exercise plan doesn't force you to use a rigid template - you write freely in a text area, inserting exercise links easily. These exercises can be from our library (summarised but with a link), or an external link - pasted, or from the APIs of integrated services such as [Pocket](https://getpocket.com/developer/), [Feedly](https://developer.feedly.com/) or [Zotera](https://www.zotero.org/support/dev/web_api/v3/start).
 Alternatively, simply add a quick text description, or use our SketchIt addin to draw, before scheduling the exercise.
 
-![](/uploads/cms.png)
+![](/uploads/cms_ex.png)
 
 ### For the end user - working out on your own
 Your Coach@Home plan is flexible - sometimes you don't have the equipment, or a movement feels painful and you need to substitute it - or perhaps switch out the entire workout! This is all intuitive and straightforward, and integrates with your own training plan

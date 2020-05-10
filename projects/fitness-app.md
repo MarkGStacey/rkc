@@ -12,9 +12,8 @@ project_fg_color: ''
 # Coach@Home
 In this post I'm introducing a new solution for the fitness world, an ecosystem of mobile and web applications, as well as a Chrome extension - called, collectively "Coach@Home".
 For editing, Coach@Home is open to 3rd party editors - such as [StackEdit.IO](https://stackedit.io/) or [Forestry.IO](https://forestry.io/) and others. 
-For coaches, physiotherapists, and personal trainers, but firstly for the person trying to improve their well-being and fitness, Coach@Home is present wherever you are - with a  focus on at home training, remote video assessments, and allowing for customisation based on what equipment you have available.
+For coaches, physiotherapists, and personal trainers, but firstly for the person trying to improve their well-being and fitness, Coach@Home is present wherever you are - with a  focus on at home training, remote video assessments, and allowing for on the spot customisation based on what equipment you have available, any pain, or time constraints.
 
-A comprehensive review of potential [competitors]('/competitors') and parallel software products, as well as evaluating the size of the potential market has guided the design of an innovative and unparalleled solution.
 
 ## The changing fitness and rehab space - technology, COVID and beyond
 Traditionally fitness and rehab have focused on brick and mortar gyms, and in-person assessments - even when assisted by tools such as [Coaches eye](https://www.coachseye.com/) or evaluation tools such as DrGoniometer [Review](https://bjsm-bmj-com.salford.idm.oclc.org/content/51/23/1703).
@@ -51,10 +50,12 @@ YouTube's interactive [With me](https://youtube.com/trends/articles/with-me-inte
 
 Another analysis by YouTube, looking at the searches for "[Workout at home](https://youtube.com/trends/articles/stay-home-workout-at-home/)" shows a massive increase since the lockdown started:
 
-![](/uploads/y_15.jpg)
-
 "*Global average daily views of videos with 'workout at home' in the title have increased by over 200% since March 15 compared to their average views for the rest of the year.
 Six of the year's top 20 biggest live streams, based on peak concurrent viewership, have been [PE With Joe live streams](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ)*"
+
+![](/uploads/y_15_2.png)
+
+
 
 People are working out at home, they can't come to you for advice in person - you need to be able to work with them easily, through video and instructions.
 
@@ -72,6 +73,8 @@ And so Coach@Home takes a different approach.
 Creating an exercise plan doesn't force you to use a rigid template - you write freely in a text area, inserting exercise links easily. These exercises can be from our library (summarised but with a link), or an external link - pasted, or from the APIs of integrated services such as [Pocket](https://getpocket.com/developer/), [Feedly](https://developer.feedly.com/) or [Zotera](https://www.zotero.org/support/dev/web_api/v3/start).
 Alternatively, simply add a quick text description, or use our SketchIt addin to draw, before scheduling the exercise.
 
+![](/uploads/cms.png)
+
 ### For the end user - working out on your own
 Your Coach@Home plan is flexible - sometimes you don't have the equipment, or a movement feels painful and you need to substitute it - or perhaps switch out the entire workout! This is all intuitive and straightforward, and integrates with your own training plan
 
@@ -86,12 +89,15 @@ Coach@Home has a chrome extension that will remind you to get up and do an activ
 For coaches, you can submit your exercises to be included in the library of suggestions - along with a link to your site or program!
 As [Dr Ken Powell](https://www-sciencedirect-com.salford.idm.oclc.org/science/article/pii/S209525461930119X) said "Some activity is better than none, and more is better than less"
 Exercises can be text, images, or videos such as the ones below:
+#### Video examples
 `youtube:https://www.youtube.com/watch?v=8IbNN6BBhco`
 
 `youtube:https://www.youtube.com/watch?v=VEzKPTMWng8`
 
+#### Instructive image example 
 ![](/uploads/l_pic.jpg)
 
+#### Animation example
 ![](/uploads/l_anim.gif)
 
 # Technology stack

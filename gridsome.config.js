@@ -15,6 +15,9 @@ module.exports = {
         typeName: "ProjectPost",
         resolveAbsolutePaths: true,
         remark: {
+          plugins: [
+            ['gridsome-plugin-remark-youtube', {width: '400px'}]
+          ],
           externalLinksTarget: "_blank",
           externalLinksRel: ["nofollow", "noopener", "noreferrer"]
         }

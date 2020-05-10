@@ -24,7 +24,7 @@ In a COVID world, home exercise, and online injury assessment and coaching are a
 *All graphs are run 2015-04-04 to 2020-04-04, for the global region - and the note at 2016/1/1 indicates a Google change in collection stats. Obviously these results will be skewed for english language countries*
 
 [Home fitness](https://trends.google.com/trends/explore?date=2015-04-04%202020-04-04&q=home%20fitness)
-![Note the annual new years spike in interest in Home Fitness!](/uploads/g_home_fitness.png)
+![](/uploads/g_home_fitness.png)
 
 Note the annual new years spike in interest in Home Fitness!
 
@@ -49,12 +49,14 @@ YouTube's interactive [With me](https://youtube.com/trends/articles/with-me-inte
 ![](/uploads/all-withme.jpg)
 
 
-Another analysis by YouTube, looking at the searches for "[Workout at home](https://youtube.com/trends/articles/stay-home-workout-at-home/)":
+Another analysis by YouTube, looking at the searches for "[Workout at home](https://youtube.com/trends/articles/stay-home-workout-at-home/)" shows a massive increase since the lockdown started:
+
 ![](/uploads/y_15.jpg)
+
 "*Global average daily views of videos with 'workout at home' in the title have increased by over 200% since March 15 compared to their average views for the rest of the year.
 Six of the year's top 20 biggest live streams, based on peak concurrent viewership, have been [PE With Joe live streams](https://www.youtube.com/channel/UCAxW1XT0iEJo0TYlRfn6rYQ)*"
 
-
+People are working out at home, they can't come to you for advice in person - you need to be able to work with them easily, through video and instructions.
 
 
 
@@ -83,6 +85,14 @@ While informal chats (IM and video) are a growing part of fitness practice, as d
 Coach@Home has a chrome extension that will remind you to get up and do an activity. Unlike other extensions, Coach@Home pulls a customised list for you of exercises, stretches and mobilisations that you are able to do easily and are suited for any restrictions you have.
 For coaches, you can submit your exercises to be included in the library of suggestions - along with a link to your site or program!
 As [Dr Ken Powell](https://www-sciencedirect-com.salford.idm.oclc.org/science/article/pii/S209525461930119X) said "Some activity is better than none, and more is better than less"
+Exercises can be text, images, or videos such as the ones below:
+`youtube:https://www.youtube.com/watch?v=8IbNN6BBhco`
+
+`youtube:https://www.youtube.com/watch?v=VEzKPTMWng8`
+
+![](/uploads/l_pic.jpg)
+
+![](/uploads/l_anim.gif)
 
 # Technology stack
 For those who want to dive deeper into how Coach@Home is built

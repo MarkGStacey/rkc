@@ -2,7 +2,7 @@
   <Layout>
     <div class="container">
       <Hero />
-      Pro
+      Site built exclusively for submission of assignments by Mark Stacey
       <ProjectsGrid :projects="$page.projects.edges" />
     </div>
     <!-- <LatestJournals :journals="$page.journals.edges" /> -->

@@ -10,8 +10,8 @@ project_fg_color: ''
 ---
 ![](/uploads/physio-virtual-feature_small.jpg)
 # Coach@Home
-In this post I'm introducing an ecosystem of mobile and web applications for the fitness world, as well as a Chrome extension - called "Coach@Home".
-Coach@Home is open to 3rd party editors - such as [StackEdit.IO](https://stackedit.io/) or [Forestry.IO](https://forestry.io/) and others. 
+This post introduces "Coach@Home" - mobile and web applications for the fitness world, as well as a Chrome extension.
+Coach@Home works with 3rd party editors such as [StackEdit.IO](https://stackedit.io/) or [Forestry.IO](https://forestry.io/). 
 For coaches, physiotherapists, and personal trainers, but firstly for the person trying to improve their well-being and fitness, Coach@Home is present wherever you are - with a  focus on at home training, remote video assessments, and allowing for on the spot customisation based on your needs.
 
 
@@ -20,7 +20,7 @@ Traditionally fitness and rehab have focused on brick and mortar gyms, and in-pe
 In a COVID world, home exercise, and online injury assessment and coaching are all increasing, as seen in Google trends:
 
 #### Google trends
-*All graphs are run 2015-04-04 to 2020-04-04, for the global region - and the note at 2016/1/1 indicates a Google change in collection stats. Obviously these results will be skewed for english language countries*
+*All graphs are run 2015-04-04 to 2020-04-04, worldwide.*
 
 [Home fitness](https://trends.google.com/trends/explore?date=2015-04-04%202020-04-04&q=home%20fitness)
 ![](/uploads/g_home_fitness.png)

@@ -101,5 +101,5 @@ Exercises can be text, images, or videos such as the ones below:
 ![](/uploads/l_anim.gif)
 
 # Technology stack
-For those who want to dive deeper into how Coach@Home is built
+For those who want to dive deeper into how Coach@Home is built, we will have a deep dive into our architecture as a follow up post - for now, here is a diagram.
 ![](/uploads/SolutionArchitecture.png)

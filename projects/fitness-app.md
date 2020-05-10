@@ -24,7 +24,7 @@ In a COVID world, home exercise, and online injury assessment and coaching are a
 *All graphs are run 2015-04-04 to 2020-04-04, for the global region - and the note at 2016/1/1 indicates a Google change in collection stats. Obviously these results will be skewed for english language countries*
 
 [Home fitness](https://trends.google.com/trends/explore?date=2015-04-04%202020-04-04&q=home%20fitness)
-![](/uploads/g_home_fitness.png)
+![Note the annual new years spike in interest in Home Fitness!](/uploads/g_home_fitness.png)
 
 Note the annual new years spike in interest in Home Fitness!
 
@@ -48,7 +48,6 @@ YouTube's interactive [With me](https://youtube.com/trends/articles/with-me-inte
 
 ![](/uploads/all-withme.jpg)
 
-Staying with YouTube
 
 Another analysis by YouTube, looking at the searches for "[Workout at home](https://youtube.com/trends/articles/stay-home-workout-at-home/)":
 ![](/uploads/y_15.jpg)
@@ -72,13 +71,19 @@ Creating an exercise plan doesn't force you to use a rigid template - you write 
 Alternatively, simply add a quick text description, or use our SketchIt addin to draw, before scheduling the exercise.
 
 ### For the end user - working out on your own
-Your Coach@Home plan is flexible - sometimes you don't have the equipment, or a movement feels painful and you need to substitute it - or perhaps switch out the entire workout! 
+Your Coach@Home plan is flexible - sometimes you don't have the equipment, or a movement feels painful and you need to substitute it - or perhaps switch out the entire workout! This is all intuitive and straightforward, and integrates with your own training plan
 
 
 
-### Video and 
+## Video and messaging
+While informal chats (IM and video) are a growing part of fitness practice, as discussed in [The need for speed](https://bjsm.bmj.com/content/early/2020/04/28/bjsports-2019-101707.full), recording some interactions is still a regulatory requirement - and so Coach@Home integrates full integration of IM chats and video calls that can be recorded automatically to case notes. As the assessments are done through the app's video function, these automatically are saved too - saving time for each assessment.
 
 
-### Chrome extension
-[Studies](https://bjsm-bmj-com.salford.idm.oclc.org/content/early/2020/05/04/bjsports-2019-101154) have shown that even small interventions in daily activity can reduce cardiovascular risk. 
-Coach@Home has a chrome extension that will remind you to get up and do an activity. Unlike previously available extensions, Coach@Home pulls a customised list for you of exercises, stretches and mobilisations that you are able to do easily and are suited for any restrictions you have.
+## Chrome extension
+Coach@Home has a chrome extension that will remind you to get up and do an activity. Unlike other extensions, Coach@Home pulls a customised list for you of exercises, stretches and mobilisations that you are able to do easily and are suited for any restrictions you have.
+For coaches, you can submit your exercises to be included in the library of suggestions - along with a link to your site or program!
+As [Dr Ken Powell](https://www-sciencedirect-com.salford.idm.oclc.org/science/article/pii/S209525461930119X) said "Some activity is better than none, and more is better than less"
+
+# Technology stack
+For those who want to dive deeper into how Coach@Home is built
+![](/uploads/SolutionArchitecture.png)
